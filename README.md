@@ -1,4 +1,4 @@
-# FEBA Landing - Next.js
+# LIVA Landing page - Next.js
 
 ## Como rodar
 
