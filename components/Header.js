@@ -6,10 +6,10 @@ export default function Header(){
       </div>
       <nav className="nav">
         <a href="#">HOME</a>
-        <a href="#">SOBRE A LIVA</a>
-        <a href="#">EMPREENDIMENTOS</a>
+        <a href="#about">SOBRE A LIVA</a>
+        <a href="#properties">EMPREENDIMENTOS</a>
         <a href="#">NOTÍCIAS</a>
-        <a href="#">CONTATO</a>
+        <a href="#contact">CONTATO</a>
         <div className="media">
           <img src="/social-media.png" alt="redes-sociais" style={{height:28}}/>
         </div>

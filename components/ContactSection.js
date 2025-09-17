@@ -8,7 +8,7 @@ export default function ContactSection(){
     <div className="contact-section" style={{backgroundImage:'url(/bg-contact.png)', width:'100%', backgroundSize: 'cover', backgroundPosition: '100%', padding: 10}}>
       <div className="container contact-inner">
         <div style={{width:320, height: '100%', padding: '20px 0'}}>
-          <h2 style={{fontSize: 26, color: 'white', textAlign: 'start'}}>Fale agora <br></br>com um consultor <br></br>de vendas</h2>
+          <h2 style={{fontSize: 26, color: 'white', textAlign: 'start'}}>Fale agora <br/>com um consultor <br/>de vendas</h2>
           <p style={{color: 'white', textAlign: 'start'}}>Tire suas dúvidas e conheça de perto o seu novo jeito de morar.</p>
           <div className="consultants" style={{marginTop:46}}>
             <img src="/avatars.png" alt="avatares" style={{width:160,height:90}} />

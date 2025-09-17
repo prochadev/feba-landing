@@ -11,13 +11,13 @@ export default function Home(){
       <Header />
       <main>
         <Hero />
-        <section className="container">
+        <section id="about" className="container">
           <About />
         </section>
-        <section className="container" style={{marginTop:24}}>
+        <section id="contact" className="container" style={{marginTop:24}}>
           <ContactSection />
         </section>
-        <section className="container" style={{marginTop:40}}>
+        <section id="properties" className="container" style={{marginTop:40}}>
           <PropertiesGrid />
         </section>
       </main>
